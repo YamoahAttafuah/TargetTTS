@@ -236,7 +236,7 @@ The only trained component. 9.3M parameters.
 |---|---|---|
 | Speaker encoder | ECAPA-TDNN (SpeechBrain) | 192-dim speaker embedding from enrollment clip |
 | ASR (English) | Whisper-tiny (39M params) | Transcription of extracted audio |
-| ASR (Twi) | Whisper-small fine-tuned on WAXAL | Transcription for Twi experiments |
+| ASR (Twi/Akan) | Whisper-small fine-tuned on WAXAL | Transcription for Twi experiments |
 
 ---
 
